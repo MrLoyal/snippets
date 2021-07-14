@@ -1,3 +1,6 @@
+https://www.stevejenkins.com/blog/2011/01/building-postfix-on-rhel-centos-from-source/
+
+
 Building Postfix on RHEL / CentOS from Source 74
 This entry was posted in LinuxReferenceTechnology and tagged binariesbuildCentOSCentOS 5CentOS 5.5CentOS 5.xCentOS 6compilePostfixPostfix 2.3.3Postfix 2.6.6Postfix 2.8Postfix 2.9RedhatRHELrpmsource on January 17, 2011 by Steve Jenkins (updated 2184 days ago)
 UPDATE 7/11/15: The following procedure will work on RHEL/CentOS 7, 6, and 5 systems to upgrading from those systems’ default versions to Postfix 3.02.
